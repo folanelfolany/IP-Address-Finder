@@ -35,7 +35,8 @@ npm start
 ```
 5. Open in Browser
 
-Visit `http://localhost:3000` to use the app.
-Code Overview
-App.js: Handles IP lookup and displays the IP information and Map.
+* Visit `http://localhost:3000` to use the app.
+
+### Code Overview
+App.js: Handles IP lookup and displays the IP information and Map. <br>
 Map.js: Shows an interactive map centered on your location, using the coordinates from IPAPI.
